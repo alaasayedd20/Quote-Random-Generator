@@ -1,0 +1,25 @@
+body{
+
+}
+.container{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.2rem;
+}
+button{
+    padding: 2rem 5rem;
+    color: #fff;
+    background-color: #09c;
+}
+button:hover{
+    background-color: rgb(11, 216, 97);
+}
